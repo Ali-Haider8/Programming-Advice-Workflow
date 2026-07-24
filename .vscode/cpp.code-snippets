@@ -1,0 +1,20 @@
+{
+	"C++ Basic Main": {
+		"prefix": "cppmain",
+		"body": [
+			"// created by ali_h at ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}",
+			"",
+			"#include <iostream>",
+			"",
+			"using namespace std;",
+			"",
+			"int main() {",
+			"",
+			"    $0",
+			"",
+			"    return 0;",
+			"}"
+		],
+		"description": "Basic C++ program structure with creation date"
+	}
+}

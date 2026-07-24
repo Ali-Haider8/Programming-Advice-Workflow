@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.runInTerminal": false,
+    "code-runner.executorMap": {
+        "cpp": "g++ \"$fullFileName\" -std=c++17 -Wall -Wextra -o \"C:\\Users\\ali_h\\VSCodeProjects\\Programming-Advice-Workflow\\build\\$fileNameWithoutExt.exe\" && start cmd /c \"cd /d C:\\Users\\ali_h\\VSCodeProjects\\Programming-Advice-Workflow && build\\$fileNameWithoutExt.exe & echo. & pause\""
+    }
+}
