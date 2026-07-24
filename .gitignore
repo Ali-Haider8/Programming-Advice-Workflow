@@ -1,1 +1,16 @@
-build
+# Ignore executables
+*.exe
+*.out
+*.o
+
+# Ignore CLion / CMake build folders
+cmake-build-*/
+build/
+
+# Ignore CLion project files
+.idea/
+*.iml
+
+# Ignore cache files
+*.obj
+*.dll
