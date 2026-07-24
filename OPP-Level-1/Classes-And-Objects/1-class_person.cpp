@@ -18,12 +18,16 @@ class clsPerson {
 
 int main() {
 
-    clsPerson Person1;
+    clsPerson Person1, Person2;
 
     Person1.FirstName = "Ali";
     Person1.LastName = "Nukhailawi";
 
+    Person2.FirstName = "Ahmed";
+    Person2.LastName = "Hadi";
+
     cout << Person1.FullName() << endl;
+    cout << Person2.FullName() << endl;
 
     return 0;
 }
