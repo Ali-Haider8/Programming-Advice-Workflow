@@ -5,14 +5,33 @@
 using namespace std;
 
 class clsPerson {
-    int x;
+  private:
+    // only accessable inside this class
+    int Variable1 = 5;
+    int Function1() {
+        return 40;
+    }
+
+    // int x;
+
+  protected:
+    // only accessable inside this class and all classes inhirets this class
+    int Variable2 = 100;
+    int Function2() {
+        return 50;
+    }
 
   public:
+    // accessable for everyone outside/inside/and classes inherits this class
     string FirstName; // data member
     string LastName;  // data member
 
     string FullName() { // member method
         return FirstName + " " + LastName;
+    }
+
+    float Function3() {
+        return Function1() * Variable1 + Variable2;
     }
 };
 
@@ -28,6 +47,7 @@ int main() {
 
     cout << Person1.FullName() << endl;
     cout << Person2.FullName() << endl;
+    cout << Person1.Function3() << endl;
 
     return 0;
 }
