@@ -17,7 +17,8 @@ class clsPerson {
         return _FirstName;
     }
 
-    __declspec(property(get = GetFirstName, put = SetFirstName)) string FirstName;
+    __declspec(property(get = GetFirstName, put = SetFirstName))
+    string FirstName;
 };
 
 int main() {
@@ -27,7 +28,8 @@ int main() {
     cout << Person1.GetFirstName() << endl;
 
     // instead of the above we only write this
-    Person1.FirstName = "Mohammed";
+    Person1.FirstName = "Mohammed"; // Set
+    cout << Person1.FirstName;      // Get
 
     system("pause>0");
     return 0;
