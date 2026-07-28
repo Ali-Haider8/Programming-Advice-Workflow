@@ -48,6 +48,8 @@ class clsCalculator {
         s = n;
         last = "Multiplying";
     }
+
+   
 };
 
 int main() {
