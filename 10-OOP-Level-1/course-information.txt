@@ -158,3 +158,102 @@ You will be able to:
 🔹 Move forward to advanced OOP and design patterns with clarity
 
 🧠 This course builds correct OOP thinking — not confusion.
+
+# Course Content
+
+## About this Course
+- About this Course
+- About this Course Preview
+
+## Important Introduction
+- Introduction (3:48)
+- Telegram Group for This Course
+
+## What Is OOP and Why?
+- What is OOP and Why? (26:25)
+
+## Classes & Objects
+- Classes and Objects (24:33)
+- Class Members (7:23)
+- Objects In Memory (5:33)
+
+## Access Specifiers/Modifiers
+- Access Specifiers/Modifiers (22:54)
+
+## Properties
+- Properties Set and Get (20:03)
+- Read Only Property (13:25)
+- Properties Set and Get through "=" (10:53)
+
+## Encapsulation and Abstraction
+- Encapsulation (5:44)
+- Abstraction (9:12)
+
+## Project 1 — Calculator
+- Project 1: Calculator - Requirements (10:49)
+- Project 1: Calculator - Solution (20:13)
+
+## Constructors & Destructors
+- Constructors (17:11)
+- Copy Constructors (8:12)
+- Destructors (14:24)
+
+## Static Members & Methods
+- Static Members (12:56)
+- Static Methods (8:37)
+
+## Exercises and Homework
+- Person Exercise - Requirements (9:04)
+- Person Exercise - Solution (17:19)
+- Homework - Employee Exercise
+
+## Inheritance
+- Inheritance (27:29)
+- Parameterized Constructor of the Base Class (18:50)
+- Function Overriding (15:13)
+- Homework - Developer Exercise
+- Multi Level Inheritance (17:09)
+- Access Specifiers/Modifiers Review (9:27)
+- Inheritance Visibility Modes (21:59)
+- Inheritance Types (7:46)
+- Up Casting vs Down Casting (12:49)
+- Virtual Functions (16:49)
+- Static/Early Binding vs Dynamic/Late Binding (7:45)
+
+## Polymorphism
+- Polymorphism (10:48)
+- Interfaces: Pure Virtual Functions and Abstract Classes (19:14)
+
+## Friend Classes & Friend Functions
+- Friend Classes (11:46)
+- Friend Function (10:20)
+
+## Misc.
+- Structure Inside Class (3:37)
+- Nested Classes (6:37)
+- Nested Classes - Constructor Homework Solution
+
+## Organizing Code Using Libraries
+- Separate Classes In Libraries (13:27)
+
+## ‘this’ pointer in C++
+- What is ‘this’ pointer? (14:11)
+
+## Misc (More)
+- Passing Objects to Functions (ByRef/ByVal)
+- Objects and Vectors
+- Objects and Dynamic Array
+- Objects with Parameterized Constructor and Array
+
+## Projects
+- String Library Project (Requirements) (22:54)
+- String Library Project (Solution) (22:09)
+- Date Library Project (Requirements) (17:00)
+- Date Library Project (Solution) (19:39)
+- Period Class
+
+## Class vs Structure
+- Difference Between Class and Structure (7:18)
+
+## Course Completed
+- Course Completed, Thank You. (2:20)
