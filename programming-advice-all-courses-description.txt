@@ -505,6 +505,7 @@ You will be able to:
 🧠 Thinking + C++ = Real Programming.
 
 ## 04 ##
+https://programmingadvices.com/p/00316b111
 
 📘 Algorithms & Problem-Solving – Level 1 (Solutions)
 From Spaghetti Code to Clean, Controlled, and Scalable Solutions
@@ -634,6 +635,96 @@ You will be able to:
 
 
 🧠 This course changes how you think about code — permanently.
+
+# Course Content
+## About this Course
+- About this Course
+- سلسة الخوارزميات وحل المشاكل المستوى الاول مهم جدا - انا انسى كثيرا ، هل هذا امر طبيعي
+- Introduction 1
+- Introduction 2
+
+## Problems from #01 to #05
+- Problem #01 to #05
+- Problem #01
+- Problem #02
+- Problem #03
+- Problem #04
+- Problem #05
+
+## Problems #06 to #10
+- Problem #06 to #10
+- Problem #06
+- Problem #07
+- Problem #08
+- Problem #09
+- Problem #10
+
+## Problems #11 to #15
+- Problems #11 to #15
+- Problem #11
+- Problem #12
+- Problem #13
+- Problem #14
+- Problem #15
+
+## Problems #16 to #20
+- Problems #16 to #20
+- Problem #16
+- Problem #17
+- Problem #18
+- Problem #19
+- Problem #20
+
+## Problems #21 to #25
+- Problems #21 to #25
+- Problem #21
+- Problem #22
+- Problem #23
+- Problem #24
+- Problem #25
+
+## Problems #26 to #30
+- Problems #26 to #30
+- Problem #26
+- Problem #27
+- Problem #28
+- Problem #29
+- Problem #30
+
+## Problems #31 to #35
+- Problems #31 to #35
+- Problem #31
+- Problem #32
+- Problem #33
+- Problem #34
+- Problem #35
+
+## Problems #36 to #40
+- Problems #36 to #40
+- Problem #36
+- Problem #37
+- Problem #38
+- Problem #39
+- Problem #40
+
+## Problems #41 to #45
+- Problems #41 to #45
+- Problem #41
+- Problem #42
+- Problem #43
+- Problem #44
+- Problem #45
+
+## Problems #46 to #50
+- Problems #46 to #50
+- Problem #46
+- Problem #47
+- Problem #48
+- Problem #49
+- Problem #50
+
+## End of Course Message
+- End of Course Message
 
 ## 05 ##
 
@@ -1533,6 +1624,7 @@ You will be able to:
 🧠 This course builds correct OOP thinking — not confusion.
 
 ## 11 ##
+https://programmingadvices.com/p/11-oop-as-it-should-be-applications
 
 📣 Build real applications using OOP the way professionals do.
 
@@ -1663,7 +1755,120 @@ After completing this course, you will be able to:
 
 🧠 This is where OOP becomes real engineering, not theory.
 
+# Course Content
+## About this Course
+- About this Course
+- Important Introduction
+- Introduction (5:27)
+- Telegram Group for This Course
+
+## Project 1: Utility Library
+- Utility Library: Requirements (12:56)
+- Utility Library: Solution
+
+## Project 2: Input and Validation Library
+- Input & Validation Library (Requirements) (13:21)
+- Input & Validation Library (Solution) (9:27)
+
+## Project 3: Bank System
+- Lesson #01 - Find Client (33:16)
+- Lesson #2 - Update Client (24:48)
+- Lesson #3 - Add New Client (8:02)
+- Lesson #4 - Delete Client (6:20)
+- Lesson #5 - List Clients (5:01)
+- Lesson #6 - Total Balances (7:20)
+
+## Project 3: Bank System - UI - Main Menu
+- Lesson 7 - Main Screen (17:28)
+- Lesson 8 - List Clients Screen (8:41)
+- Lesson 9 - Add New Client Screen (7:19)
+- Lesson 10 - Delete Client Screen (5:32)
+- Lesson 11 - Update Client Screen (4:11)
+- Lesson 12 - Find Client Screen (4:05)
+
+## Project 3: Bank System - UI - Transactions Menu
+- Lesson 13 - Transactions Screen (7:47)
+- Lesson 14 - Deposit Screen (7:04)
+- Lesson 15 - Withdraw Screen (5:39)
+- Lesson 16 - Total Balances Screen (7:05)
+
+## Project 3: Bank System - UI - Manage Users Menu
+- Lesson 17 - Manage Users Screen (10:55)
+- Lesson 18 - Prepare User Class (12:14)
+- Lesson 19 - List Users Screen (4:10)
+- Lesson 20 - Add New User Screen (9:46)
+- Lesson 21 - Delete User Screen (3:46)
+- Lesson 22 - Update User Screen (5:02)
+- Lesson 23 - Find User Screen (3:10)
+
+## Project 3: Bank System - Login And Permissions
+- Lesson 24 - Login (10:04)
+- Lesson 25 - Logout (5:45)
+- Lesson 26 - Show Login Screen at Logout (8:56)
+- Lesson 27 - Apply Permissions (10:30)
+
+## Project 3: Bank System - Bank Extension 01
+- Add Date and Logged In User to All Screens (2:50)
+- Solution (5:34)
+
+## Project 3: Bank System - Bank Extension 02
+- Lock the System After 3 failed Logins (1:57)
+- Solution (4:46)
+
+## Project 3: Bank System - Bank Extension 03
+- Register Logins In a Log File (4:36)
+- Solution (7:16)
+
+## Project 3: Bank System - Bank Extension 04
+- Show Login Register Screen (2:52)
+- Solution (7:08)
+
+## Project 3: Bank System - Bank Extension 05
+- Permission to Show Log Register Screen (2:10)
+- Solution (4:35)
+
+## Project 3: Bank System - Bank Extension 06
+- Transfer Screen (4:51)
+- Solution (7:55)
+
+## Project 3: Bank System - Bank Extension 07
+- Create Transfer Log (5:06)
+- Solution (5:14)
+
+## Project 3: Bank System - Bank Extension 08
+- Show Transfers Log Screen (3:10)
+- Solution (5:50)
+
+## Project 3: Bank System - Bank Extension 09
+- Encrypt Password In File (4:59)
+- Solution (11:28)
+
+## Project 3: Bank System - Extension 10
+- Abstract Class/Interface Practical Example (12:04)
+
+## Project 04: Currency Exchange
+- Project Overview (8:54)
+- Project 04: Currency Exchange 01 Prepare Currency Object (16:34)
+- Project 4: Currency Exchange 02 Currency Main Screen (3:40)
+- Solution (3:26)
+- Project 4: Currency Exchange 03 Currencies List Screen (2:28)
+- Solution (3:01)
+- Project 4: Currency Exchange 04 Find Currency (3:23)
+- Solution (4:37)
+- Project 04: Currency Exchange 05 Update Currency Rate (3:03)
+- Solution (4:02)
+- Project 4: Currency Exchange 06 Currency Calculator Screen (6:32)
+- Solution (15:35)
+
+## Template Functions & Classes
+- Template Functions (3:24)
+- Template Classes (5:53)
+
+## Homework
+- Organize Your Classes (3:49)
+
 ## 12 ##
+https://programmingadvices.com/p/12-data-structures-level1
 
 📣Learn core data structures clearly, correctly, and at the right time.
 
@@ -1811,6 +2016,90 @@ After completing this course, you will be able to:
 
 
 🧠 Strong programs start with strong data organization.
+
+# Course Content
+## About this Course
+- About this Course
+- Important Introduction (9:31)
+- Telegram Group for This Course
+
+## Before You Start!
+- Before You Start...
+
+## Data Structures
+- What is Data Structure? and Why? (16:13)
+- Data Structures (DS) vs Database (DB): Differences between Data Structures and Database (15:42)
+- Classifications of Data Structures: What are the Classification/Types of Data Structures? (18:57)
+- Time & Space Complexity - Big O Notation - Part 1: Things Affect Program Speed & Efficiency (7:03)
+- Time & Space Complexity - Big O Notation (28:53)
+- Big O(1) : Constant Time Function (14:36)
+- Big O(n) : Linear Time Function (11:25)
+- Big O(n^2) : Quadratic Time Function (22:13)
+- Big O(Log n) : Logarithmic Time Function (10:36)
+- Important Question :-) , Work Smart. (9:10)
+- Big O Comparison and Conclusion (15:07)
+
+## Binary Data Structure
+- Binary Data Structure: Real Examples. (33:41)
+
+## Array Data Structure
+- Array is One of the Most Important Data Structures (8:41)
+
+## Matrix Data Structure
+- Matrix Data Structure (4:21)
+
+## Stack Data Structure
+- Important: What is Stack Data Structure? (9:32)
+- STL: Stack (7:49)
+- Stack Swap (2:26)
+
+## Vector Data Structure
+- Vector Data Structure (3:32)
+
+## Queue Data Structure
+- Important: What is Queue Data Structure? (4:48)
+- STL: Queue (4:08)
+- Swap Queue
+
+## Singly Linked List
+- What is Linked List? (6:55)
+- Singly Linked List Implementation (15:06)
+- Operations - Insert At Beginning (6:24)
+- Operations - Find (3:38)
+- Operations - Insert After (5:56)
+- Operations - Insert At End (6:51)
+- Operations - Delete Node (7:08)
+- Operations - Delete First Node (4:14)
+- Operations - Delete Last Node (4:49)
+
+## Doubly Linked List
+- What is Doubly Linked List? (2:28)
+- Doubly Linked List Implementation (2:25)
+- Operations - Insert At Beginning (6:44)
+- Operations - Find Node (3:49)
+- Operations - Insert After (6:14)
+- Operations - Insert at End (4:36)
+- Operations - Delete Node (7:51)
+- Operations - Delete First Node (4:08)
+- Operations - Delete Last Node (6:24)
+
+## Circular Linked List
+- What is Circular Linked List? (4:44)
+
+## Abstract Data Type (ADT)
+- What is ADT? (4:35)
+
+## Map
+- What is Map?
+
+## Quiz
+- Quiz
+
+## Union
+- Union
+
+## Quiz
+- Quiz
 
 ## 13 ##
 
@@ -2000,6 +2289,80 @@ Completing Part Two gives you something far more important than a tool or langua
 
 
 🧠 Strong developers don’t lock themselves into a path — they build foundations that let them move freely.
+
+# Course Content
+## About this Course
+- About this Course
+- Introduction (3:21)
+- Course Group on Telegram
+- Important Before You Start...
+
+## Project 1
+- Requirements (8:07)
+- Solution (9:24)
+- Extension 1 - Requirements (1:28)
+- Extension 1 - Solution (7:46)
+- Extension 2 - Requirements (1:38)
+- Extension 2 - Solution (1:41)
+- Extension 3 - Requirements (1:21)
+- Extension 3 - Solution (1:35)
+- Extension 4 - Requirements (1:23)
+- Extension 4 - Solution (2:37)
+- Extension 5 - Requirements (2:15)
+- Extension 5 - Solution (4:00)
+- Extension 6 - Requirements (1:24)
+- Extension 6 - Solution (2:11)
+- Extension 7 - Requirements (1:49)
+- Extension 7 - Solution (1:45)
+- Extension 8 - Requirements (2:52)
+- Extension 8 - Solution (1:51)
+
+## Project 2
+- Requirements (4:00)
+- Solution (9:31)
+- Extensions 1 to 7 Requirements (6:06)
+- Extension 1 to 7 Solution (3:58)
+
+## Project 3
+- Requirements (4:44)
+- Solution (6:08)
+
+## Project 4
+- Requirements (4:16)
+- Solution (6:24)
+- Extension 01 - Requirements (2:57)
+- Extension 01 - Solution (6:04)
+- Extension 02 to 04 - Requirements (1:34)
+- Extension 02 to 04 - Solution (3:02)
+- Extension 05 - Requirements (1:35)
+- Extension 05 - Solution (4:12)
+- Extension 06 to 07 - Requirements (1:40)
+- Extension 06 to 07 - Solution (1:31)
+- Extension 08 to 09 - Requirements (2:49)
+- Extension 08 to 09 - Solution (2:18)
+- Extension 10 - Requirements (1:38)
+- Extension 10 - Solution (4:04)
+- Extension 11 to 14 - Requirements (3:14)
+- Extension 11 to 14 - Solution (3:17)
+
+## Project 5
+- Requirements (3:37)
+- Solution (4:07)
+
+## Project 6
+- Requirements (2:07)
+- Solution (2:43)
+
+## Project 7
+- Requirements (7:45)
+- Solution (8:55)
+
+## Project 8
+- Requirements (15:38)
+- Solution (14:00)
+
+## Important Message
+- هل استطيع ان اتخصص الان؟ مهم جدا حدا جدا
 
 ## 14 ##
 
@@ -2192,6 +2555,7 @@ After completing this course, you will:
 
 
 ## 15 ##
+https://programmingadvices.com/p/database-level-1-sql-concepts-and-practice
 
 📣 Master databases correctly and save years of programming time.
 
@@ -2390,8 +2754,152 @@ After this course, you will:
 
 🧠 Strong developers master databases — weak ones fight them forever.
 
+# Course Content
+## Course Content
+- Introdction
+- About This Course
+- Telegram Group
+- Installing SQL Sever 2022
+- How to install SQL Server 2022
+- Revision
+- Differences between Data, Information , Knowledge and Wisdom
+- Differences between Data Structure and Database (15:42)
+- Introduction
+- What is Database? (20:55)
+- What is NULL? (8:33)
+- Primary Key vs Foreign Key / Referential Integrity (24:36)
+- What is Redundancy? and why it's a problem? (19:22)
+- What is Data Integrity? and Why it's Important and Critical? (21:38)
+- What is Constraint? and Why it's Important? (13:47)
+- What is SQL? (17:51)
+- DBMs vs RDBMS Summary (8:50)
+
+## Database Design: Conceptual Design
+- What is ERD? and Why? (20:22)
+- ERD Symbols (12:33)
+- Components of ERD (2:27)
+- Entity (Strong) and Weak Entity (9:25)
+- Attributes (7:08)
+- Relationships (16:39)
+- One-to-One Relationship (16:21)
+- One-to-Many/Many-to-One Relationship (15:01)
+- Many-to-Many Relationship (6:26)
+- Cardinality vs Ordinality (11:57)
+- Cardinality Symbols and Practices (29:44)
+- Total Vs Partial Participation (5:54)
+- Process of Creating ERD Step by Step - Small Project (26:57)
+- Recommended ERD Software to Use (2:51)
+- Aggregation / Associative Entities (5:45)
+- Generalization (13:26)
+- Specialization (15:38)
+
+## Relational Schema
+- What is Relational Schema? (13:58)
+- Convert Self Referential ==> Relational Schema (7:07)
+- Convert Composite-Multivalued-Derived Attributes ==> Relational Schema (15:19)
+- Convert One-to-One ==> Relational Schema (8:45)
+- Convert One-to-Many/Many-to-One ==> Relational Schema (8:16)
+- Convert Many-to-Many ==> Relational Schema (16:41)
+- Generalization and Specialization to Relational Schema
+- Convert Associative Entity to Relational Schema (7:20)
+- How to create Relational Schema on ERDPlus.com? (5:08)
+
+## SQL
+- (revision) What is SQL? (17:51)
+
+## SQL - Data Definition Language - DDL
+- Create Database (7:56)
+- Create Database IF NOT EXISTS (6:59)
+- Switch Database (4:42)
+- Drop Database (2:52)
+- Drop Database IF EXISTS (3:33)
+- Create Table (13:53)
+- SQL DataTypes
+- Drop Table (2:42)
+
+## DDL - Alter Table Statement
+- Add Column (2:57)
+- Rename Column (6:12)
+- Rename a table (3:43)
+- Modify a column (3:48)
+- Delete a column (1:41)
+
+## Backup & Restore Database
+- Backup Database (9:26)
+- Differential Backup (5:40)
+- Restore Database (3:32)
+
+## Data Manipulation Language - DML
+- Insert Into Statement (17:53)
+- Update Statement (11:43)
+- Delete Statement (5:47)
+- Select Into Statement (6:48)
+- Insert Into ..Select From Statement (7:27)
+
+## Misc 1
+- Identity Field (Auto Increment) (11:40)
+- Delete vs Truncate statement. (6:25)
+- Foreign Key Constraint (17:05)
+
+## Hints
+- Solution To: "Saving changes is not permitted" error (1:26)
+
+## SQL - Queries
+- Restore Sample HR Database and Get Ready . (4:29)
+- Select Statement (6:37)
+- Select Distinct Statement (5:35)
+- Where Statement + AND , OR, NOT (10:33)
+- "In" Operator (8:55)
+- Sorting : Order By (7:01)
+- Select Top Statement (13:45)
+- Select As (11:27)
+- Between Operator (1:40)
+- Count, Sum, Avg, Min, Max Functions (6:00)
+- Group By (7:46)
+- Having (8:14)
+- Like (6:13)
+- WildCards (7:42)
+
+## Joins
+- Restore Shop Database
+- (Inner) Join (19:45)
+- Left (Outer) Join (7:56)
+- Right (Outer) Join + Full (Outer) Join (9:01)
+
+## Views
+- Views (12:09)
+
+## SQL - More Queries
+- Exists (7:40)
+- Union (4:34)
+- Case (6:22)
+
+## More about Constraints
+- Constraints (2:37)
+- What is Constraint? and Why it's Important? (13:47)
+- Primary Key Constraint
+- Foreign Key Constraint
+- Not Null Constraint
+- DEFAULT Constraint (11:09)
+- Check Constraint (7:11)
+- Unique Constraint (6:28)
+
+## SQL Index
+- SQL Index (18:15)
+
+## Normalization
+- What is Normalization? (8:19)
+- First Normal Form 1NF (7:06)
+- Second Normal Form 2NF (6:52)
+- Third Normal Form 3NF (6:43)
+- Boyce Codd normal form (BCNF) , 4NF and 5NF
+
+## Course Completed
+- Message
+
 
 ## 16 ##
+https://programmingadvices.com/p/16-oop-in-c
 
 📣 Master Object-Oriented Programming the Right Way
 
@@ -2539,6 +3047,101 @@ After completing this course, you will:
 🧠 OOP is not about classes — it’s about controlling complexity.
 
 This course teaches you how to do that the right way.
+
+# Course Content
+## About this Course
+- About this Course
+- Important Introduction About the Course
+- Telegram Group for This Course
+- Introduction Important Introduction (7:09)
+
+## Class & Object (Revision)
+- What is Object Oriented Programming? And Why? (26:25)
+- Class & Object (12:06)
+- Objects In Memory (4:49)
+
+## Access Modifiers
+- Access Modifiers (12:20)
+
+## Static Members
+- Static Members (14:14)
+
+## Properties
+- Properties Set and Get (6:45)
+- ReadOnly Properties (3:01)
+- Auto Implemented Properties (4:15)
+- Static Properties & Static Class (4:20)
+
+## Principles/Concepts of OOP, Part I : Encapsulation & Abstraction
+- First Principle or Concept of OOP- Encapsulation (5:44)
+- Second Principle or Concept of OOP - Abstraction (9:12)
+
+## Calculator Project
+- Requirements (4:13)
+- Solution (9:37)
+
+## Constructor and Destructor
+- Constructor (2:08)
+- Parameter-less Constructor (3:38)
+- Parameterized Constructor (3:47)
+- Default Constructor (1:34)
+- Private Constructor vs Static Class (5:20)
+- Multiple Constructors using overloading (3:26)
+- Static Constructor (2:16)
+- Destructor (4:16)
+
+## Real life Application of Using Static and Constructor :-)
+- Very Important: Real life Application of Using Static and Constructors. (20:38)
+
+## Third Principle/Concept of OOP: Inheritance
+- Third Principle/Concept of OOP: Inheritance (18:01)
+- Inheritance Constructor (3:43)
+- Upcasting and Downcasting (8:02)
+- Method Overriding in C# Inheritance + Base Keyword (7:58)
+- Method Hiding in C# (5:35)
+- Types Of Inheritance (4:34)
+- Multi-Level Inheritance (3:06)
+- Hierarchal Inheritance (2:33)
+
+## Abstract Class & Methods
+- Abstract Class & Methods (9:32)
+
+## Interface
+- What is Interface ? and Why? (17:34)
+- Implementing Multiple Interfaces (9:03)
+
+## C# Nested Class
+- C# Nested Class (6:39)
+
+## Composition
+- Composition (2:10)
+
+## Sealed Classes & Sealed Method
+- Sealed Class (2:46)
+- Sealed Method (4:35)
+
+## C# Partial Class and Partial Method
+- C# Partial Class (4:00)
+- Introduction to Partial Methods (7:49)
+
+## Fourth Principle/Concept of OOP: Polymorphism
+- 4th Principle/Concept in OOP - Polymorphism (7:57)
+
+## Introduction to Class Libraries
+- .NET Class Library (24:45)
+
+## Access Modifiers - Internal
+- Internal Access Modifier
+
+## Class vs Struct
+- Class vs Struct
+
+## C# Enums
+- C# Enums (Enum is a special class)
+
+## Course Complete
+- Course Complete
+
 
 ## 17 ##
 
@@ -3336,6 +3939,7 @@ After completing this course, you will:
 🧠 Level 1 taught you how to query data. Level 2 teaches you how databases actually think.
 
 ## 22 ##
+https://programmingadvices.com/p/22-ds-l2
 
 📣 Advanced collections, trees, graphs, heaps — taught at the perfect time in the roadmap.
 
@@ -3504,6 +4108,270 @@ You will be able to:
 🔹 Build smarter systems in C#
 🔹 Understand advanced backend and algorithm topics easier
 🔹 Feel confident when you see complex code — not afraid 🚀
+
+# Course Content
+## Important Introduction
+- Telegram Group for This Course
+
+## Introduction
+- Before You Start..
+
+## Before You Start
+- Review Course 12 Data Structures Level 1
+
+## Quick Review (Lessons) from Course 12 Data Structures Level 1
+- What is Data Structure? and Why? (16:13)
+- Differences between Data Structures and Database (15:42)
+- What are the Classification/Types of Data Structures? (18:57)
+- In Course 12 We Covered Theses Data Structures...
+
+## Boxing and Unboxing
+- Boxing in C# (7:34)
+- Quiz 1
+- Unboxing in C# (3:51)
+- Quiz 2
+
+## Introduction to Collections (Data Structures ) in C#
+- Introduction to Collections in C# (9:57)
+- Quiz 1
+- Generic vs Non-Generic Collections (11:09)
+- Quiz 2
+
+## Lists In C#
+- What is List? (5:14)
+- Quiz 1
+- Working with List in C# (4:46)
+- Inserting Elements into a List (7:46)
+- Remove Items from List (7:56)
+- Looping Through a List in C# (4:31)
+- Aggregating Data Using LINQ with List (3:57)
+- Filtering Data with LINQ in C# Using List (9:49)
+- Sorting a List in C# Using Various Methods (3:36)
+- Exploring Contains, Exists, Find, FindAll, and Any with List of Integers (9:17)
+- Exploring Contains, Exists, Find, FindAll, and Any with List of Strings (2:59)
+- Working with a List of Custom Objects (10:58)
+- Converting a List to an Array (2:10)
+- Converting an Array to List (1:48)
+- Exists vs Any
+
+## HashTable
+- What is Hashtable? (12:55)
+- Quiz
+- Working with Hashtable in C# (6:03)
+
+## Dictionary
+- Understanding and Using Dictionary (3:23)
+- Quiz1
+- Dictionary vs HashTable (6:49)
+- Quiz2
+- Working with Dictionary in C# (5:39)
+- TryGetValue Method in C# Dictionaries (4:05)
+- Utilizing LINQ with Dictionaries (6:37)
+- Advanced LINQ Queries with Dictionaries (5:08)
+
+## Hashset
+- Introduction to HashSet in C#
+- Quiz
+- Working with Hashset (2:23)
+- Checking for Existence in HashSet (1:18)
+- Removing Elements from HashSet (1:32)
+- Using HashSet to Remove Duplicates (3:02)
+- Using HashSet with LINQ Example 1 (1:43)
+- Using LINQ with HashSet Example 2 (2:27)
+
+## Set Operations in HashSet in C#
+- Union Operation with HashSet in C# (2:21)
+- Intersection Operation with HashSet in C# (1:57)
+- Difference Operation with HashSet in C# (2:29)
+- Symmetric Difference Operation with HashSet in C# (3:12)
+- Quiz
+
+## Comparing Sets with HashSet in C#
+- Using SetEquals with HashSet in C# (2:15)
+- Using IsSubsetOf with HashSet in C# (2:00)
+- Using IsSupersetOf with HashSet in C# (1:36)
+- Using Overlaps with HashSet in C# (2:09)
+- Quiz
+
+## SortedList
+- What is Sorted List? (3:28)
+- Quiz
+- SortedList vs List
+- Quiz2
+- Working with SortedList (3:47)
+- LINQ with SortedList (3:29)
+- Advanced LINQ Usage with SortedList: Grouping Elements (2:19)
+- Advance Complex Object Operations using Linq and Sotred List (4:02)
+
+## SortedSet
+- Introduction to SortedSet in C# (7:35)
+- Quiz
+- Working with SortedSet (4:45)
+- Ling with SortedSet Example1
+- Linq with SortedSet Example2
+- Union, Intersection, Difference, Subset, and Superset operations using SortedSet
+- Comparing SortedSets, including equality, subset, and superset relationships
+
+## Sorted Dictionary
+- SortedDictionary vs. SortedList (10:03)
+- Quiz
+- Working with SortedDictionary (3:40)
+
+## ArrayList
+- Introduction to ArrayList (3:42)
+- Quiz
+- Working with ArrayList (3:19)
+- Filtering ArrayList with Linq
+- Aggregate Functions in ArrayList with Linq
+- Counting occurrences of a specific element
+
+## ObservableCollection in C#
+- Introduction to ObservableCollection in C# (4:12)
+- Quiz
+- Creating and Adding Items to ObservableCollection (1:52)
+- Responding to Changes in ObservableCollection (7:42)
+
+## Stacks In C#
+- Important: What is Stack Data Structure? (Review Lesson from Course 12) (9:32)
+- Stack Collection In C#
+- Quiz
+
+## Queues In C#
+- Important: What is Queue Data Structure? (a Review Lesson from Course 12) (4:48)
+- Queue Collection in C#
+- Quiz
+
+## Linked Lists In C#
+- What is Linked List? (A Review from Course 12) (6:55)
+- What is Doubly Linked List? (A Review from Course 12) (2:28)
+- What is Circular Linked List? (A Review from Course 12) (4:44)
+- Linked List Collection in C#
+- Quiz
+
+## Arrays
+- Important to Read (Self Read and Practice Section)
+- Introduction to Arrays
+- Common Operations on Arrays
+- Advanced Array Operations
+- Multidimensional Arrays
+- Copying Arrays
+- Using LINQ with Arrays - Example 1
+- Advanced LINQ Operations on Arrays
+- Advanced LINQ Operations on Arrays - Filtering and Aggregation Introduction to Filtering and Aggregation
+- Advanced LINQ Operations on Arrays - Joining and Projection Introduction to Joining and Projection
+
+## BitArray
+- What is BitArray? (3:26)
+- Quiz
+- Working with BitArray (10:36)
+- Bitwise Operators in BitArray: (6:46)
+
+## Jagged arrays
+- Jagged arrays (5:46)
+- Quiz
+- Advanced Concepts in Jagged Arrays
+- Quiz 2
+- Using LINQ with Jagged Arrays
+- Quiz 3
+
+## Tuples in C#
+- Tuples in C# (6:55)
+- Quiz 1
+- LINQ with Tuples
+- Quiz 2
+
+## Introduction to Collection Interfaces
+- What are Collection Interfaces and Why? (16:33)
+- Quiz
+
+## IEnumerable Collection Interface
+- What is IEnumerable Interface? (7:55)
+- Quiz
+- Implementing IEnumerable in a Custom Collection (8:51)
+
+## ICollection - Collection Interface
+- What is ICollection Interface? (8:47)
+- Quiz
+- Implementing ICollection (8:30)
+
+## IList - Collection Interface
+- IList (8:27)
+- Quiz
+- Implementing IList (8:12)
+
+## IDictionary - Collection Interface
+- What is IDictionary
+- Quiz
+- Implementing IDictionary
+
+## ISet - Collection Interface
+- What is ISet?
+- Quiz
+
+## IComparable
+- What is IComparable Interface? (6:19)
+- Quiz
+- Implementing IComparable in Custom Classes (6:46)
+
+## Tree Data Structure
+- Tree Data Structure in C# (15:15)
+- Quiz
+
+## General Tree
+- What is General Tree? (12:42)
+- Quiz
+- General Tree Implementation in C# (12:30)
+- Family Tree Example
+- Find Operation on General Tree (7:16)
+
+## Binary Tree
+- What is Binary Tree (12:25)
+- Quiz 1
+- Types of Binary Tree (16:14)
+- Quiz 2
+- Binary Tree Implementation (17:23)
+- Preorder Tree Traversal (5:28)
+- Quiz 3
+- Preorder Tree Traversal Implementation in C#
+- Postorder Tree Traversal (4:08)
+- Quiz 4
+- Postorder Tree Traversal Implementation in C# (3:32)
+- Inorder Tree Traversal (6:45)
+- Quiz 5
+- Inorder Tree Traversal Implementation in C# (3:53)
+
+## Introduction to Graphs
+- What is Graph?
+- Quiz 1
+- Types of Graphs (21:08)
+- Quiz 2
+- Graph Representation (13:45)
+- Quiz 3
+- Homework 1
+- Homework 1 - Solution
+- Homework 2
+- Homework 2 - Solution
+- Homework 3
+- Homework 3 - Solution
+- Implementing Graph Using Adjacency Matrix (36:48)
+- Implementing Graph Using Adjacency List (15:07)
+
+## Heap Data Structure
+- What is a Heap? (11:55)
+- Quiz
+- Overview of Heap Operations
+- Min-Heap: Insert and HeapifyUp Operations (11:15)
+- Min-Heap: Peek Operation
+- Min-Heap: Extract (Delete) and HeapifyDown Operations (11:53)
+- Max-Heap Full Implementation
+
+## Priority Queue
+- What is a Priority Queue? (6:06)
+- Implementing a Priority Queue Using Min-Heap in C# (7:33)
+- Quiz
+
+## End of Course Message
+- End of Course Message (3:10)
 
 ## 23 ##
 
@@ -4454,6 +5322,9 @@ You will be able to:
 
 ## 29 ##
 
+https://programmingadvices.com/p/solid-principles
+
+
 📣 Writing Maintainable, Scalable, and Professional Object-Oriented Code
 
 مهم جدا
@@ -4634,6 +5505,77 @@ You will be able to:
 
 🧠 Clean design is not optional.
 🧠 SOLID is the language of professional software design.
+
+# Course Content
+## Important Introduction
+- About This Course
+- Telegram Group for This Course
+
+## Introduction
+- Introduction to SOLID Principles
+- Quiz
+
+## 1 - Single Responsibility Principle (SRP)
+- Single Responsibility Principle (SRP) (18:41)
+- Quiz
+- Example 1 In C# : Notification Service. (13:19)
+- Example 2 in C#: Logging Service (4:59)
+- Homework 1: Correct the Mistakes in Example 2 to SRP Compatible .
+- Logging Service - SRP Homework Solution (8:05)
+
+## 2 - Open/Closed Principle (OCP)
+- Open/Closed Principle (OCP) (12:54)
+- Quiz
+- Example 1 In C#: Notification Service (32:25)
+- Homework 1 - Logging Service
+- Homework 1 - Solution (13:53)
+- Homework 2 - Payment Service
+- Homework 2 - Solution (10:07)
+
+## 3 - Liskov Substitution Principle (LSP)
+- Liskov Substitution Principle (LSP) (11:39)
+- Quiz
+- Example 1 in C#: Violating LSP - Bird (5:31)
+- Example 2: Bird - LSP (8:56)
+- Example 3: Violating LSP - Vehicle (7:50)
+- Homework 1: Correct the Mistakes in Example 3 to be LSP Compatible .
+- Example 4 - Vehicle - LSP -Homework 1 - Solution (6:41)
+- Example 5: Violating LSP - Person (6:14)
+- Homework 2: Correct the Mistakes in Example 5 to be LSP Compatible .
+- Example 6 - Person - LSP -Homework 2 - Solution (7:59)
+
+## 4 - Interface Segregation Principle (ISP)
+- Interface Segregation Principle (ISP) (18:29)
+- Quiz
+- Example 1 in C#: Violating ISP - Printer (7:29)
+- Example 2: Applying ISP - Printer (10:52)
+- Example 3: Violating ISP - Payment (4:54)
+- Homework 1: Correct the Mistakes in Example 3 to be ISP Compatible .
+- Example 4 - Payment - ISP -Homework 1 - Solution (9:58)
+- Example 5: Violating ISP - Device (5:57)
+- Homework 2: Correct the Mistakes in Example 5 to be ISP Compatible .
+- Example 6 - Device - ISP -Homework 2 - Solution (8:21)
+- Interface Inheritance
+- Can Interface Inherit Other Interfaces?
+
+## 5 - Dependency Inversion Principle (DIP)
+- Dependency Inversion Principle (DIP)
+- Quiz
+- Example 1: Violating DIP - Report (4:50)
+- Important: Example 2: DIP - Report (22:35)
+
+## Introduction to Dependency Injection Design Pattern
+- What is Dependency Injection Design Pattern?
+- Dependency Inversion Principle (DIP) vs Dependency Injection Design Pattern.
+- Quiz
+
+## Summary
+- SOLID Principles
+- Dependency Injection Design Pattern
+
+## End Of Course Message
+- Important Message (5:22)
+
 
 ## 30 ##
 
