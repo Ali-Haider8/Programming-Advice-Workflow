@@ -35,7 +35,6 @@ class clsPerson {
     }
 
     void setLastName(string LastName) {
-        // line to fix streak
 
     }
 
