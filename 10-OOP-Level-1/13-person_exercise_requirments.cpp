@@ -14,7 +14,7 @@ class clsPerson {
     int _PhoneNumber;
 
   public:
-    clsPerson(int ID, string FirstName, string LastName, string Email, int PhoneNumber) {
+    clsPerson(int ID, string FirstName, string LastName, string Email, long PhoneNumber) {
         _ID = ID;
         _FirstName = FirstName;
         _LastName = LastName;
@@ -96,7 +96,7 @@ class clsPerson {
 
 int main() {
 
-    clsPerson Person1(10, "Ali", "Nukhailawi", "ali@gmail.com", 136);
+    clsPerson Person1(10, "Ali", "Nukhailawi", "ali@gmail.com",9647840071715);
     Person1.Print();
 
     Person1.SendEmail("Hi", "How are you?");
