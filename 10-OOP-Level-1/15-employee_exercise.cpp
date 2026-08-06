@@ -8,7 +8,7 @@ class clsEmployee {
   private:
     int _ID;
     string _FirstName;
-    string _LastName;
+    string _LastName; // 
     string _Title;
     string _Email;
     string _Phone;
