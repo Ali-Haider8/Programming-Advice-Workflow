@@ -75,6 +75,7 @@ class clsPerson {
     }
 
     void Print() {
+        cout << "\n";
         cout << "Info: " << endl;
         cout << "______________________" << endl;
         cout << "ID: " << _ID << endl;
@@ -97,38 +98,63 @@ class clsPerson {
         cout << "Sending SMS to: " << _Phone << endl;
         cout << "Body: " << Body << endl;
     }
-
 };
 
 class clsEmployee : public clsPerson {
-    private:
+  private:
     string _Title;
     string _Department;
     float _Salary;
 
-    public:
-
+  public:
     // Property Set
-    void setTitle(string Title){
+    void setTitle(string Title) {
         _Title = Title;
     }
 
     // Property Get
-    string Title(){
+    string Title() {
         return _Title;
     }
 
     // Property Set
-    void setDepartment(string Department){
+    void setDepartment(string Department) {
         _Department = Department;
     }
 
-    //
+    // Property Get
+    string Department() {
+        return _Department;
+    }
 
+    // Property Set
+    void setSalary(float Salary) {
+        _Salary = Salary;
+    }
 
-}
+    // Property Get
+    float Salary() {
+        return _Salary;
+    }
+};
 
 int main() {
 
+    clsEmployee Employee1;
+    Employee1.setFirstName("Ali");
+    Employee1.setLastName("Nukhailawi");
+    Employee1.setEmail("ali@g.com");
+    Employee1.setPhone("964775531236");
+    Employee1.Print();
+    Employee1.SendEmail("Hello", "This is a test email.");
+
+    Employee1.setSalary(6000);
+    cout << "Salary: " << Employee1.Salary() << endl;
+
+    // Calling the print will not print anything from derived class, only base class
+    // therefore the print method will not serve me here, this is a problem will be solved in the next lecture.
+    Employee1.Print();
+
+    system("pause>0");
     return 0;
 }
