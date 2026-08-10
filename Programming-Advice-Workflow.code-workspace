@@ -9,6 +9,7 @@
 			"Hadi",
 			"Nukhailawi"
 		],
-		"workbench.list.openMode": "doubleClick"
+		"workbench.list.openMode": "doubleClick",
+		"workbench.colorTheme": "Visual Studio Dark - C++"
 	},
 }
