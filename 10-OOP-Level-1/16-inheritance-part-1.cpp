@@ -139,6 +139,7 @@ class clsEmployee : public clsPerson {
 };
 
 int main() {
+<<<<<<< HEAD
 
     clsEmployee Employee1;
     Employee1.setFirstName("Ali");
@@ -147,6 +148,10 @@ int main() {
     Employee1.setPhone("964775531236");
     Employee1.Print();
     Employee1.SendEmail("Hello", "This is a test email.");
+=======
+// new line
+    
+>>>>>>> 4b9cb01f45cb4f9893dba483645d7a9d78c5d685
 
     Employee1.setSalary(6000);
     cout << "Salary: " << Employee1.Salary() << endl;
