@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
 
-    
+    // write comment
 
     return 0;
 }
