@@ -5,7 +5,8 @@
 using namespace std;
 
 int main() {
-
+cout << "______________________" << endl;
+    cout << "\n";
  // line for streak
     return 0;
 }
