@@ -154,6 +154,8 @@ int main() {
     cout << "\n" << Employee1.Department() << endl;
     cout << "\n" << Employee1.Salary() << endl;
 
+    // new line
+
 
     system("pause>0");
     return 0;
