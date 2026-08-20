@@ -15,20 +15,7 @@ class clsPerson {
   public:
     // we put default constructor here temporarily because inheritance will use it
     // in the coming lectures we will solve the parmtaired constructor with inheritance.
-    clsEmployee(
-        int id,
-        string FirstName,
-        string LastName,
-        string Email,
-        string Phone,
-        string Title,
-        string Department,
-        float Salary) : clsPerson(id, FirstName, LastName, Email, Phone) {
-        _title = Title;
-        _Department = Department;
-        _Salary = Salary;
-    }
-    
+
     clsPerson() {
     }
     clsPerson(int ID, string FirstName, string LastName, string Email, string Phone) {
@@ -121,6 +108,11 @@ class clsEmployee : public clsPerson {
     float _Salary;
 
   public:
+    clsEmployee(int ID, string FirstName, string LastName, string Email, string Phone, string Title, string Department, float Salary) : clsPerson(ID, FirstName, LastName, Email, Phone) {
+        _Title = Title;
+        _Department = Department;
+        _Salary = Salary;
+    }
 
     // Property Set
     void setTitle(string Title) {
@@ -155,20 +147,13 @@ class clsEmployee : public clsPerson {
 
 int main() {
 
-    clsEmployee Employee1;
-    Employee1.setFirstName("Ali");
-    Employee1.setLastName("Nukhailawi");
-    Employee1.setEmail("ali@g.com");
-    Employee1.setPhone("964775531236");
+    clsEmployee Employee1(10, "Ali", "Hassan", "ali@gmail.com", "078651625", "Student", "IT", 2354.5);
     Employee1.Print();
-    Employee1.SendEmail("Hello", "This is a test email.");
 
-    Employee1.setSalary(6000);
-    cout << "Salary: " << Employee1.Salary() << endl;
+    cout << "\n" << Employee1.Title() << endl;
+    cout << "\n" << Employee1.Department() << endl;
+    cout << "\n" << Employee1.Salary() << endl;
 
-    // Calling the print will not print anything from derived class, only base class
-    // therefore the print method will not serve me here, this is a problem will be solved in the next lecture.
-    Employee1.Print();
 
     system("pause>0");
     return 0;
