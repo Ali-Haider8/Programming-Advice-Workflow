@@ -1,4 +1,4 @@
-// created by ali_h at 2026-08-11 23:49
+// created by ali_h at 2026-08-20 12:56
 
 #include <iostream>
 
@@ -143,17 +143,29 @@ class clsEmployee : public clsPerson {
     float Salary() {
         return _Salary;
     }
+
+    void Print() {
+        cout << "\n";
+        cout << "Info: " << endl;
+        cout << "______________________" << endl;
+        cout << "ID: " << ID() << endl;
+        cout << "FirstName: " << FirstName() << endl;
+        cout << "LastName: " << LastName() << endl;
+        cout << "FullName: " << FullName() << endl;
+        cout << "Email: " << Email() << endl;
+        cout << "Phone: " << Phone() << endl;
+        cout << "Title: " << Title() << endl;
+        cout << "Department: " << Department() << endl;
+        cout << "Salary: " << Salary() << endl;
+        cout << "______________________" << endl;
+        cout << "\n";
+    }
 };
 
 int main() {
 
     clsEmployee Employee1(10, "Ali", "Hassan", "ali@gmail.com", "078651625", "Student", "IT", 2354.5);
     Employee1.Print();
-
-    cout << "\n" << Employee1.Title() << endl;
-    cout << "\n" << Employee1.Department() << endl;
-    cout << "\n" << Employee1.Salary() << endl;
-
 
     system("pause>0");
     return 0;
