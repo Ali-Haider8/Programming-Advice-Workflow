@@ -49,6 +49,6 @@ int main() {
     
     clsC C1;
     // Try C1 after you change visibility mode in clsB. and see what you can see.
-    
+    // 
     return 0;
 }
